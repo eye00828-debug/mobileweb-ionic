@@ -27,7 +27,6 @@ import '@ionic/vue/css/palettes/dark.system.css'
 /* Theme variables */
 import './theme/variables.css'
 
-/* ✅ เรียกใช้ PWA Elements (จำเป็นสำหรับ Camera บน Web) */
 defineCustomElements(window)
 
 const app = createApp(App)
